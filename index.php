@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- teste -->
+<!-- cut this header into separate file -->
 <head>
 
     <meta charset="utf-8">
