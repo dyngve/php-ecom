@@ -1,0 +1,265 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"simplexml_",
+				"simplexml_load_file"
+			],
+			[
+				"getW",
+				"getWeatherIcon"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"packt",
+				"packtPage"
+			],
+			[
+				"xml",
+				"xmlPageDom"
+			],
+			[
+				"http",
+				"httpResponse"
+			],
+			[
+				"resu",
+				"results_urls"
+			],
+			[
+				"se",
+				"separate_result"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"cu",
+				"curl_scraped_page"
+			],
+			[
+				"curl_e",
+				"curl_exec"
+			],
+			[
+				"defin",
+				"defined"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git:",
+				"Git: Pull"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/magicmirror/yr.php",
+		"/C/xampp/htdocs/magicmirror/weather.php",
+		"/C/xampp/htdocs/test/products.xml",
+		"/C/xampp/htdocs/test/productsXpath.php",
+		"/C/xampp/htdocs/test/DomXpath.php",
+		"/C/xampp/htdocs/test/xPath_test_1.php",
+		"/C/xampp/htdocs/test/scrape_functions.php",
+		"/C/xampp/htdocs/test/what.php",
+		"/C/xampp/htdocs/test/scrape_1.php",
+		"/C/xampp/htdocs/test/books.xml",
+		"/C/xampp/htdocs/test/curl_info.php",
+		"/C/xampp/htdocs/test/test_page_scrape.php",
+		"/C/xampp/htdocs/php-ecom/index.php",
+		"/C/xampp/htdocs/ecom/resources/config.php",
+		"/C/xampp/htdocs/ecom/resources/functions.php",
+		"/C/xampp/htdocs/ecom/public/index.php",
+		"/C/xampp/htdocs/ecom/resources/templates/front/slider.php",
+		"/C/xampp/htdocs/ecom/resources/templates/front/side_nav.php",
+		"/C/xampp/htdocs/ecom/resources/templates/front/top_nav.php",
+		"/C/xampp/htdocs/ecom/resources/templates/front/header.php",
+		"/C/xampp/htdocs/ecom/resources/templates/front/footer.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/c/xampp/apache/logs/error.log",
+		"/c/xampp/php/logs/php_error_log",
+		"/C/xampp/mysql/data/mysql_error.log",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/c/xampp/apache/logs/access.log",
+		"/C/Users/mlk03/Downloads/Migrate-ChromeBookmarks.ps1",
+		"/C/Users/mlk03/Desktop/bokstäver hänger inte med när man byter bild till",
+		"/C/Users/mlk03/Desktop/Test.htm",
+		"/C/Users/mlk03/AppData/Local/Microsoft/Windows/INetCache/IE/OQ9X8U7G/dracula[1].xml",
+		"/C/Users/mlk03/AppData/Roaming/ConEmu.xml",
+		"/C/Users/mlk03/Roaming/ConEmu.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"90",
+			"80",
+			"drac"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "php-ecom.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
